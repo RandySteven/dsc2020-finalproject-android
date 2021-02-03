@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CovidTracker</string>
+    <string name="covid_19_tracker">COVID-19 TRACKER</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="positives">Positives</string>
+    <string name="see_all">See All</string>
+    <string name="numb">#numb</string>
+    <string name="total_case">Total Case</string>
+    <string name="back_icon"><![CDATA[<]]></string>
+</resources>
